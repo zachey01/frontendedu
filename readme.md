@@ -54,5 +54,3 @@
 - [Прогрессивные приложения](https://web.dev/progressive-web-apps/)
 
 - [Emmet в vs code](https://habr.com/ru/post/573032/)
-
-<a href="https://h5bp.org/Front-end-Developer-Interview-Questions/translations/russian/"><h2>А теперь закрепим</a>
