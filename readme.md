@@ -52,5 +52,3 @@
 - [Что такое cors](https://webdevblog.ru/chto-takoe-cors/)
 
 - [Прогрессивные приложения](https://web.dev/progressive-web-apps/)
-
-- [Emmet в vs code](https://habr.com/ru/post/573032/)
